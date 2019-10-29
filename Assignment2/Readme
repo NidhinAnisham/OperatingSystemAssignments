@@ -1,0 +1,7 @@
+This program is to test the advantage of multithreading over single threading. 
+Two very large numbers (1 million digits) are being multiplied using a single thread (prog1.c) and k threads where k is an user input (prog2.c)
+Run compile.sh to generate the 1 million digit files a.txt & b.txt
+Compile.sh also compiles both the c programs
+./prog1 runs prog1 and produces output in c1.txt
+./prog2 runs prog2 and produces output in c2.txt
+Note: This program only works on a Linux or Unix environment.
