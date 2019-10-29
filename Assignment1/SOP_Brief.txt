@@ -1,0 +1,21 @@
+I was selected for conducting research at the Microsoft Innovation Lab during my undergraduate. My main problem statement was to develop a machine learning algorithm that could identify a heart disease (cardiac arrhythmia) from the electrocardiogram (ECG) of the patient. I worked on an enhanced version of the Voting Feature Intervals algorithm to perform the prediction. I had performed extensive feature engineering by using statistical models to improve the accuracy of the Machine Learning model. 
+
+During my final undergraduate year, I worked with Dr. Venkatesh Vadde on developing a novel electric driver assist system. Our goal was to develop a model car that could sautonomously navigate and trail a leading vehicle with minimal human intervention in highly-dense traffic conditions. A DC hub-motor driven control system is designed, modelled and simulated using Simulink. The system designed for rush-hour urban settings with speeds of 0 – 5 Kmph, maintains about 1m separation from the front vehicle. The system uses inexpensive ultrasonic sensors and a tachometer to estimate distance and speed dynamically. The speed-control algorithm is successfully able to track typical rush-hour vehicular profiles. The EDAS has also been implemented on a model car using an Arduino and Beaglebone with acceptable real-time performance results.
+
+At my current workplace Wipro Limited India, I am part of the Automation team that researches and develops innovative products to reduce manual effort. I am part of a small team that has developed a tool which performs auditing of resolved support ticket issues. I was involved in researching natural language understanding techniques to process ticket log data. I have worked on semantic similarity and topic modelling concepts. I have also used Machine Learning techniques to perform statistical analysis on the log data. 
+
+
+
+
+Broadly, I find Machine Learning absolutely fascinating. ML has become ever-present in today's world just like the internet and I am positive it will become a part of every computer device in the future. I would like to be a part of the ML revolution and contribute as much as I can to use ML for the betterment of society.
+
+Specifically, I want to work on Natural Language Processing as I believe that a machine's ability to understand and respond to us will be enhanced if the machine can process the human language. We express our thoughts through language and thus it is imperative that the machine can comprehend the language to better understand our thoughts. 
+
+
+Ndapa Nakashole - Her major research area being Natural Language Processing (NLP) and Machine Learning is in line with my interests. I have been exposed to NLP while developing an NLP based tool at Wipro India but I wish to explore the field further and working with professor Nakashole would help me broaden my knowledge on NLP. "Language-Aware Truth Assessment of Fact Candidates" and "Machine Reading with Background Knowledge" were some of her publications that I find particularly interesting. Also, her dissertation on "Never-Ending Learning" provided me with an alternative outlook on ML.  I would be thrilled at the opportunity to interact with professor Nakashole and attend her Statistical Natural Language Processing course.
+
+Sanjoy Dasgupta - In addition to Machine Learning, I believe that mastering algorithms are essential to execute Machine Learning in an optimized manner. Professor Sanjoy's expertise in Algorithms which was evident from an excerpt that I read from his Book "Algorithms" coupled with his interest for unsupervised and minimally supervised learning has convinced me that I would be a good fit in his research group. I would like to gain insight into his work on algorithmic theory combined with statistics. I look forward to attending his course on Learning Algorithms.
+
+
+
+Received distinction award for Semesters 2,3,5 and 6 for my Undergraduate Degree.
