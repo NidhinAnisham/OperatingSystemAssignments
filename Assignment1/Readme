@@ -1,0 +1,14 @@
+Algorithm:
+
+1. Read the number of files(n) and the filenames from command line arguments
+2. Open the n files
+3. Create n child processes
+4. Perform character counting inside each file
+5. Write the output of character count to temporary output files
+6. Parent waits for all children to finish executing
+7. Consolidate all temporary output files to one result file
+8. Delete temporary files
+
+Comments:
+Compile CountChar.c
+First line of the program is a sample run
