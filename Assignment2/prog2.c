@@ -1,6 +1,5 @@
 /*
-* Authors: Vineeth Karanam, Nidhin Anisham
-* Net ID: VXK180045, NXA190000
+* Author: Nidhin Anisham
 *
 * :: Input Files ::
 * ================
